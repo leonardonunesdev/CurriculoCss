@@ -1,0 +1,42 @@
+body{
+    background-image: url("http://www.drawingdesk.co.uk/wp-content/uploads/2016/08/3a.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+    text-align: center;
+    margin: 20px;
+    margin-bottom: 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+}
+
+.informacao{
+    font-weight: 500;
+}
+
+.informacao p{
+    margin-bottom: 0!important;
+    color: black;
+}
+
+.body{
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 5px;
+    margin:20px;
+    margin-top: 0!important;
+}
+
+.caixa-texto{
+    padding: 20px;
+    padding-bottom: 0;
+    opacity: 1;
+    color: white;
+    padding-top: 50px;
+}
+
+.contato{
+    text-align: center;
+}
